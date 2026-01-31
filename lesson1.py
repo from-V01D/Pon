@@ -1,1 +1,1 @@
-print(f'''  Hello {2+2} World!  ''')
+print(f'''Hello {2+2} World!''')
